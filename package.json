@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.2.6",
     "@thirdweb-dev/contracts": "^3.3.2",
     "@thirdweb-dev/react": "^3.7.2",
     "@thirdweb-dev/sdk": "^3.7.2",
